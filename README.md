@@ -1,2 +1,2 @@
 # telescope
-Track your connections with men on Telegram with Conode!
+Track your connections with people on Telegram with [conode](https://github.com/literally-user/conode)!
